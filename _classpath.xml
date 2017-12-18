@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/bivu"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/istphasejar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jarfilesforXslt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/selenium"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xslt"/>
+	<classpathentry kind="lib" path="D:/automatic mail trigger/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="D:/excelgenerate reports/ExcelReportGenerator-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

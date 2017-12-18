@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [regression Suite]">
+  <test name="vfhg(failed)">
+    <classes>
+      <class name="org.ivymobility.com.UserMaster.vfhg">
+        <methods>
+          <include name="UM_LL_TC_01"/>
+          <include name="reportTestResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.UserMaster.vfhg -->
+      <class name="org.ivymobility.com.UserMaster.UM_LL_TC_01ToVerifyTheLocationScreenLoadsAsPerTheSpecification">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.UserMaster.UM_LL_TC_01ToVerifyTheLocationScreenLoadsAsPerTheSpecification -->
+    </classes>
+  </test> <!-- vfhg(failed) -->
+</suite> <!-- Failed suite [regression Suite] -->

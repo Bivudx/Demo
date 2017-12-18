@@ -1,0 +1,15 @@
+10/14/2017 12:03:50 DEBUG devpinoyLogger:69 - Loading Properties files
+10/14/2017 12:03:50 DEBUG devpinoyLogger:94 - Loaded Properties files successfully
+10/14/2017 12:03:50 DEBUG devpinoyLogger:98 - Loading All Excel files.....
+10/14/2017 12:03:50 DEBUG devpinoyLogger:104 - Loaded All Excel files successfully
+10/14/2017 12:03:56 INFO  devpinoyLogger:117 - ---------------------locator---------name-uid
+10/14/2017 12:03:56 INFO  devpinoyLogger:168 - ---------------------name---------
+10/14/2017 12:03:56 INFO  devpinoyLogger:327 - Entered Data in username Input Field
+10/14/2017 12:03:56 INFO  devpinoyLogger:117 - ---------------------locator---------name-password
+10/14/2017 12:03:56 INFO  devpinoyLogger:168 - ---------------------name---------
+10/14/2017 12:03:56 INFO  devpinoyLogger:337 - Entered Data in Password Input Field
+10/14/2017 12:03:56 INFO  devpinoyLogger:117 - ---------------------locator---------name-btnLogin
+10/14/2017 12:03:56 INFO  devpinoyLogger:168 - ---------------------name---------
+10/14/2017 12:03:57 INFO  devpinoyLogger:345 - Clicked on Login Button
+10/14/2017 12:03:57 DEBUG devpinoyLogger:30 - Checking Runmode of suitexls
+10/14/2017 12:03:57 DEBUG devpinoyLogger:35 - Skipping the execution of  DistributorManagementSuitexls as the runmode of the suite was set to NO
